@@ -21,6 +21,8 @@ public class Abstract_class {
     public static ExtentReports reports;
     public static ExtentTest logger;
 
+    //new changes
+
     //define before suite to set a static driver
     @BeforeSuite
     public void  defineDriver () throws IOException, InterruptedException {

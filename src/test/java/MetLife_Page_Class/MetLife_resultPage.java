@@ -35,6 +35,8 @@ public class MetLife_resultPage extends Abstract_class {
         dentalProgram.add("PPO-MEDIUM");
         dentalProgram.add("PPO-HIGH");
 
+        //for loop
+
         for (int i = 0; i<zipCode.size(); i++) {
 
             logger.log(LogStatus.INFO,"Navigate to Metlife home page");
