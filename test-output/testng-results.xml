@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Entering a value on element zip code]]>
+    </line>
+    <line>
+      <![CDATA[Submitting a value on element submit]]>
+    </line>
+    <line>
+      <![CDATA[Entering a value on element referral code]]>
+    </line>
+    <line>
+      <![CDATA[Capturing a text from element error Message]]>
+    </line>
+    <line>
+      <![CDATA[Entering a value on element zip code]]>
+    </line>
+    <line>
+      <![CDATA[Submitting a value on element submit]]>
+    </line>
+    <line>
+      <![CDATA[Entering a value on element referral code]]>
+    </line>
+    <line>
+      <![CDATA[Capturing a text from element error Message]]>
+    </line>
+    <line>
+      <![CDATA[Entering a value on element zip code]]>
+    </line>
+    <line>
+      <![CDATA[Submitting a value on element submit]]>
+    </line>
+    <line>
+      <![CDATA[Entering a value on element referral code]]>
+    </line>
+    <line>
+      <![CDATA[Capturing a text from element error Message]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-06-12T03:39:43 EDT" name="Default Suite" finished-at="2020-06-12T03:41:59 EDT" duration-ms="135882">
+    <groups>
+    </groups>
+    <test started-at="2020-06-12T03:39:43 EDT" name="Maven_Automation" finished-at="2020-06-12T03:41:59 EDT" duration-ms="135882">
+      <class name="MetLife_Page_Class.MetLife_resultPage">
+        <test-method is-config="true" signature="defineDriver()[pri:0, instance:MetLife_Page_Class.MetLife_resultPage@76b10754]" started-at="2020-06-12T03:39:35 EDT" name="defineDriver" finished-at="2020-06-12T03:39:43 EDT" duration-ms="7356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defineDriver -->
+        <test-method is-config="true" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:MetLife_Page_Class.MetLife_resultPage@76b10754]" started-at="2020-06-12T03:39:43 EDT" name="getMethodName" finished-at="2020-06-12T03:39:43 EDT" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void MetLife_Page_Class.MetLife_resultPage.MetLife_Result() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethodName -->
+        <test-method signature="MetLife_Result()[pri:0, instance:MetLife_Page_Class.MetLife_resultPage@76b10754]" started-at="2020-06-12T03:39:43 EDT" name="MetLife_Result" finished-at="2020-06-12T03:41:58 EDT" duration-ms="135844" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering a value on element zip code]]>
+            </line>
+            <line>
+              <![CDATA[Submitting a value on element submit]]>
+            </line>
+            <line>
+              <![CDATA[Entering a value on element referral code]]>
+            </line>
+            <line>
+              <![CDATA[Capturing a text from element error Message]]>
+            </line>
+            <line>
+              <![CDATA[Entering a value on element zip code]]>
+            </line>
+            <line>
+              <![CDATA[Submitting a value on element submit]]>
+            </line>
+            <line>
+              <![CDATA[Entering a value on element referral code]]>
+            </line>
+            <line>
+              <![CDATA[Capturing a text from element error Message]]>
+            </line>
+            <line>
+              <![CDATA[Entering a value on element zip code]]>
+            </line>
+            <line>
+              <![CDATA[Submitting a value on element submit]]>
+            </line>
+            <line>
+              <![CDATA[Entering a value on element referral code]]>
+            </line>
+            <line>
+              <![CDATA[Capturing a text from element error Message]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MetLife_Result -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:MetLife_Page_Class.MetLife_resultPage@76b10754]" started-at="2020-06-12T03:41:59 EDT" name="endTest" finished-at="2020-06-12T03:41:59 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="closeInfo()[pri:0, instance:MetLife_Page_Class.MetLife_resultPage@76b10754]" started-at="2020-06-12T03:41:59 EDT" name="closeInfo" finished-at="2020-06-12T03:41:59 EDT" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeInfo -->
+      </class> <!-- MetLife_Page_Class.MetLife_resultPage -->
+    </test> <!-- Maven_Automation -->
+  </suite> <!-- Default Suite -->
+</testng-results>

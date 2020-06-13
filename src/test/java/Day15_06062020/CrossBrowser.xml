@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite">
+    <test name="Chrome Automation Test" preserve-order="true">
+        <parameter name="Browser" value="chrome"></parameter>
+        <classes>
+            <!-- All Person -->
+            <class name="Day15_06062020.List_Boolean_TestNG_Abstract_cross" />
+
+        </classes>
+    </test> <!-- Test -->
+        <test name="Firefox Automation Test" preserve-order="true">
+            <parameter name="Browser" value="Firefox"></parameter>
+            <classes>
+                <!-- All Person -->
+                <class name="Day15_06062020.List_Boolean_TestNG_Abstract_cross" />
+            </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
